@@ -2,3 +2,6 @@
 Fernet Encrypted Message Application in Python
 
 -------------------------------------------------------------
+
+               :::::Contact:::::: 
+Discord: f1del_05
